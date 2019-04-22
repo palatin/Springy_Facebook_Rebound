@@ -2,9 +2,11 @@ package com.zach.salman.springy;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
+
 import android.view.View;
 
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.zach.salman.springylib.SpringAnimationType;
 import com.zach.salman.springylib.SpringyAnimator;
